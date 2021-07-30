@@ -1,0 +1,3 @@
+[Jugador: Juan][Carro: Ferrari][Carril: 1]
+[Jugador: Daniel][Carro: Renault][Carril: 2]
+[Jugador: Ricardo][Carro: Toyota][Carril: 3]
